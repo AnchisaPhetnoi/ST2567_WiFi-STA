@@ -2,13 +2,13 @@ menu "Example Configuration"
 
     config ESP_WIFI_SSID
         string "WiFi SSID"
-        default "myssid"
+        default "AIS 4G Hi-Speed Home WiFi_769475"
         help
             SSID (network name) for the example to connect to.
 
     config ESP_WIFI_PASSWORD
         string "WiFi Password"
-        default "mypassword"
+        default "50769475"
         help
             WiFi password (WPA or WPA2) for the example to use.
     config ESP_WIFI_CHANNEL
